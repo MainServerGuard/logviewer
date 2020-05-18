@@ -7,5 +7,30 @@
         "description": "Mongodb connection uri that contains your modmail logs.",
         "required": true
         }
-    }
+    },
+    "GUILD_ID": {
+        "description": "The ID of the guild this bot will be used in.",
+        "required": true
+        }
+    },
+    "OAUTH2_CLIENT_ID": {
+        "description": "The ID of the bot, you can see it at the Discord developer bot page, under our super cool BloxTech team.",
+        "required": true
+        }
+    },
+    "OAUTH2_CLIENT_SECRET": {
+        "description": "Not to be confused with the token, this is the application token itself, :))",
+        "required": true
+        }
+    },
+    "OAUTH2_REDIRECT_URI": {
+        "description": "Looks like http://thelogname.logs.bloxtech.tech/callback",
+        "required": true
+        }
+    },
+    "TOKEN": {
+        "description": "The Discord bot token, you'll need it too for deploying the bot, so yes, :))",
+        "required": true
+        }
+    },
 }
