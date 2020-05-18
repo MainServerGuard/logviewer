@@ -1,3 +1,5 @@
-BloxTech is here.\n
-Silence is golden.\n
+BloxTech is here.
+
+Silence is golden.
+
 That's it.
