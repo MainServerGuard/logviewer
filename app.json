@@ -32,5 +32,5 @@
         "description": "The Discord bot token, you'll need it too for deploying the bot, so yes, :))",
         "required": true
         }
-    },
+    }
 }
